@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "intro-react-native",
-    "slug": "intro-react-native",
+    "name": "react_native_intro",
+    "slug": "react_native_intro",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
