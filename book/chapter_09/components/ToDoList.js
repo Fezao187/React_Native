@@ -37,9 +37,6 @@ export default function ToDoList({ navigation }) {
         dispatch({ type: 'delete', payload: todo });
     };
     const editRow = (todo, rowMap) => {
-        setTodoText(todo.text)
-        setEditMode(true)
-        setEditTodo(todo)
         if (rowMap[todo.id]) {
             rowMap[todo.id].closeRow();
         }
