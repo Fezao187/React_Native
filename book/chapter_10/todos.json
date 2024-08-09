@@ -1,0 +1,16 @@
+{
+    "todos": [
+        {
+            "id": 1,
+            "text": "Finish books"
+        },
+        {
+            "id": 2,
+            "text": "Play games"
+        },
+        {
+            "id": 3,
+            "text": "Sleep"
+        }
+    ]
+}
